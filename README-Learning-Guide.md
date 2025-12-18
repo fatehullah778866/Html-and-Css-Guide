@@ -65,6 +65,23 @@ Welcome to your comprehensive HTML and CSS learning journey! This collection of 
 
 ---
 
+### 3.5. CSS Three Ways - Complete Guide (`CSS-Three-Ways-Complete-Guide.md`)
+**Level:** Absolute Beginner  
+**Estimated Time:** 2-3 hours  
+**Prerequisites:** Basic understanding of HTML  
+**Topics Covered:**
+- Inline CSS (what, how, when, why)
+- Internal/Embedded CSS (what, how, when, why)
+- External CSS (what, how, when, why)
+- Line-by-line explanations of every code example
+- When to use each method
+- Practice exercises and conversions
+- Complete website examples
+
+**Start here if:** You want to understand the three ways to add CSS with simple, beginner-friendly explanations
+
+---
+
 ### 4. CSS Advanced - Complete Guide (`04-CSS-Advanced-Complete-Guide.md`)
 **Level:** Intermediate to Advanced  
 **Estimated Time:** 12-18 hours  
@@ -102,7 +119,8 @@ Welcome to your comprehensive HTML and CSS learning journey! This collection of 
    - Learn about accessibility
    - Build a multi-page website
 
-3. **Week 3-4:** Study `03-CSS-Basics-Complete-Guide.md`
+3. **Week 3-4:** Study `03-CSS-Basics-Complete-Guide.md` and `CSS-Three-Ways-Complete-Guide.md`
+   - Learn the three ways to add CSS (start with this!)
    - Master the box model (very important!)
    - Learn all selectors
    - Practice typography and colors
@@ -222,6 +240,8 @@ Welcome to your comprehensive HTML and CSS learning journey! This collection of 
 - [ ] I can use ARIA attributes correctly
 
 ### CSS Basics Mastery:
+- [ ] I understand the three ways to add CSS (inline, internal, external)
+- [ ] I know when to use each CSS method
 - [ ] I understand the box model completely
 - [ ] I can use all types of selectors
 - [ ] I understand how specificity works
