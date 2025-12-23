@@ -103,6 +103,22 @@ Welcome to your comprehensive HTML and CSS learning journey! This collection of 
 
 ---
 
+### 5. HTML & CSS Projects - Complete Implementation Guide (`05-HTML-CSS-Projects-Complete-Guide.md`)
+**Level:** Beginner to Intermediate  
+**Estimated Time:** 15-20 hours  
+**Prerequisites:** Complete HTML Basics and CSS Basics  
+**Topics Covered:**
+- Step 1: Simple Projects (Personal Profile Card, Landing Page, Product Card)
+- Step 2: Intermediate Projects (Building Skills)
+- Step 3: Advanced Intermediate Projects (Combining Concepts)
+- Step-by-step and line-by-line explanations
+- Real-world project implementations
+- Best practices and troubleshooting
+
+**Start here if:** You want to apply HTML and CSS knowledge through hands-on projects
+
+---
+
 ## 🎯 Recommended Learning Path
 
 ### For Complete Beginners:
@@ -131,6 +147,12 @@ Welcome to your comprehensive HTML and CSS learning journey! This collection of 
    - Learn responsive design
    - Practice animations and transitions
    - Build a fully responsive website
+
+5. **Week 7-8:** Study `05-HTML-CSS-Projects-Complete-Guide.md`
+   - Build simple projects (Step 1)
+   - Progress to intermediate projects (Step 2)
+   - Complete advanced intermediate projects (Step 3)
+   - Apply all learned concepts in real projects
 
 ---
 
@@ -221,6 +243,13 @@ Welcome to your comprehensive HTML and CSS learning journey! This collection of 
 - Animated components
 - Photo gallery with transitions
 
+### After HTML & CSS Projects Guide:
+- Personal profile card component
+- Complete landing pages
+- Product card components
+- Multi-section websites
+- Responsive layouts
+
 ---
 
 ## ✅ Learning Checklist
@@ -254,6 +283,13 @@ Welcome to your comprehensive HTML and CSS learning journey! This collection of 
 - [ ] I can build responsive websites
 - [ ] I understand CSS variables
 - [ ] I can create animations and transitions
+
+### HTML & CSS Projects Mastery:
+- [ ] I can build complete landing pages
+- [ ] I can create reusable components
+- [ ] I can combine HTML and CSS effectively
+- [ ] I understand project structure and organization
+- [ ] I can troubleshoot common layout issues
 
 ---
 
